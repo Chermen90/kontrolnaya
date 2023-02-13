@@ -1,0 +1,15 @@
+C:\Users\zarin\Desktop\1kr\bin\Debug\net6.0\1kr.exe
+C:\Users\zarin\Desktop\1kr\bin\Debug\net6.0\1kr.deps.json
+C:\Users\zarin\Desktop\1kr\bin\Debug\net6.0\1kr.runtimeconfig.json
+C:\Users\zarin\Desktop\1kr\bin\Debug\net6.0\1kr.dll
+C:\Users\zarin\Desktop\1kr\bin\Debug\net6.0\1kr.pdb
+C:\Users\zarin\Desktop\1kr\obj\Debug\net6.0\1kr.csproj.AssemblyReference.cache
+C:\Users\zarin\Desktop\1kr\obj\Debug\net6.0\1kr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zarin\Desktop\1kr\obj\Debug\net6.0\1kr.AssemblyInfoInputs.cache
+C:\Users\zarin\Desktop\1kr\obj\Debug\net6.0\1kr.AssemblyInfo.cs
+C:\Users\zarin\Desktop\1kr\obj\Debug\net6.0\1kr.csproj.CoreCompileInputs.cache
+C:\Users\zarin\Desktop\1kr\obj\Debug\net6.0\1kr.dll
+C:\Users\zarin\Desktop\1kr\obj\Debug\net6.0\refint\1kr.dll
+C:\Users\zarin\Desktop\1kr\obj\Debug\net6.0\1kr.pdb
+C:\Users\zarin\Desktop\1kr\obj\Debug\net6.0\1kr.genruntimeconfig.cache
+C:\Users\zarin\Desktop\1kr\obj\Debug\net6.0\ref\1kr.dll
